@@ -3,19 +3,19 @@
 # Neelamber Kumar — 3D Portfolio
 
 <p align="center">
-	<a href="https://github.com/sunnypatell/react-threejs-portfolio/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell/react-threejs-portfolio?style=social"></a>
-	<a href="https://github.com/sunnypatell/react-threejs-portfolio/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/sunnypatell/react-threejs-portfolio?style=social"></a>
+	<a href=""><img alt="Stars" src=""></a>
+	<a href=""><img alt="Forks" src=""></a>
 	<a href="#tech-stack"><img alt="Built with" src="https://img.shields.io/badge/Built%20with-Vite%20·%20React%20·%20Three.js-915EFF"></a>
-	<a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Custom-blue"></a>
-	<a href="https://www.sunnypatel.net"><img alt="Live" src="https://img.shields.io/badge/live-sunnypatel.net-00C853"></a>
+	<a href="LICENSE"><img alt="License" src=""></a>
+	<a href=""><img alt="Live" src=""></a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/sunnypatell/react-threejs-portfolio/issues"><img alt="Issues" src="https://img.shields.io/github/issues/sunnypatell/react-threejs-portfolio?color=%23915EFF"></a>
-	<a href="https://github.com/sunnypatell/react-threejs-portfolio/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/sunnypatell/react-threejs-portfolio?color=%2300B8D9"></a>
+	<a href=""><img alt="Issues" src=""></a>
+	<a href=""><img alt="PRs" src=""></a>
 	<img alt="Last commit" src="https://img.shields.io/github/last-commit/sunnypatell/react-threejs-portfolio?color=%23A3E635">
-	<img alt="Top language" src="https://img.shields.io/github/languages/top/sunnypatell/react-threejs-portfolio?color=%23F59E0B">
-	<img alt="Repo size" src="https://img.shields.io/github/repo-size/sunnypatell/react-threejs-portfolio?color=%239999FF">
+	<img alt="Top language" src="">
+	<img alt="Repo size" src="">
 	<a href="#contributing"><img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-ff69b4.svg"></a>
 </p>
 
@@ -226,7 +226,7 @@ Suggested commit style: conventional commits (e.g., `feat: add mobile camera pre
 		</td>
 		<td>
 			<b>Neelamber Kumar</b><br/>
-			<a href="https://www.sunnypatel.net">Website</a> • <a href="mailto:sunnypatel124555@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/sunny-patel-30b460204/">LinkedIn</a>
+			<a href="">Website</a> • <a href="">Email</a> • <a href=""</a>
 		</td>
 	</tr>
 	<tr>
