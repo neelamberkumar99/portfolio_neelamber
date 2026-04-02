@@ -165,13 +165,8 @@ react-threejs-portfolio/
 ## Deployment
 
 GitHub Pages (current)
-- Custom domain via `CNAME` set to `sunnypatel.net`.
-- Build with `npm run build` and publish `dist/` to Pages (e.g., via Actions or manual).
 
 Vercel (optional)
-- Import repo in Vercel; framework: Vite.
-- Build command: `npm run build`, output: `dist`.
-- For SPA routing with React Router, Vercel will serve `index.html` for unknown routes by default. Verify deep links.
 
 Any Static Host
 - Serve the `dist/` directory over any CDN or static hosting provider.
