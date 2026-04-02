@@ -248,7 +248,7 @@ This project is open source. See `LICENSE` for terms. Third-party 3D assets are 
 
 ## Contact
 
-- Portfolio: https://www.sunnypatel.net
-- Email: sunnypatel124555@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sunny-patel-30b460204/
+- Portfolio: 
+- Email:
+- LinkedIn: 
  -->
